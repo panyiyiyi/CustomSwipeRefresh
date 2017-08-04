@@ -16,5 +16,6 @@
         android:id="@+id/ac_custom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
         android:text="第三方下拉刷新上拉加载的显示效果" />
 </LinearLayout>
