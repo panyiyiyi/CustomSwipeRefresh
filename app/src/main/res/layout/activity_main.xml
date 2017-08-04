@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/swiperefresh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeeeee"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/ac_system"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="系统下拉刷新的显示效果" />
+
+    <Button
+        android:id="@+id/ac_custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="第三方下拉刷新上拉加载的显示效果" />
+</LinearLayout>

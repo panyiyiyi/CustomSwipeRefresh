@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.swiperefreshtest.view.BothSwipeRefresh xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/swiperefresh"
+    android:background="#eeeeee">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</com.swiperefreshtest.view.BothSwipeRefresh>
